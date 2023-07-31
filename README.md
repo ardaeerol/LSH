@@ -1,4 +1,4 @@
-# On Progress..
+# In Progress..
 
 # Locality Sensitive Hashing Algorithm Implementation
 
