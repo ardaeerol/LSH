@@ -2,7 +2,7 @@
 
 # Locality Sensitive Hashing Algorithm Implementation
 
-This repository contains an implementation of the Locality Sensitive Hashing (LSH) algorithm as a part of the CS 476 course project.
+This repository contains an implementation of the Locality Sensitive Hashing (LSH) algorithm as a part of the CS 476 Data Mining course project.
 
 ## Overview
 
