@@ -28,7 +28,7 @@ git clone https://github.com/ardaeerol/LSH.git
 2. Install the necessary dependencies:
 
 ```bash
-cd your-repo
+cd LSH
 pip install -r requirements.txt
 ```
 
