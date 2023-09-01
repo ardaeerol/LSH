@@ -4,6 +4,9 @@
 
 This repository contains an implementation of the Locality Sensitive Hashing (LSH) algorithm as a part of the CS 476 Data Mining course project.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-brightgreen)](https://github.com/ardaeerol/LSH)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 Locality Sensitive Hashing is a technique used for approximate nearest neighbor search in high-dimensional data. It aims to efficiently identify similar items by mapping them to the same "bucket" with high probability. This implementation provides a scalable and efficient solution for similarity search in large datasets.
